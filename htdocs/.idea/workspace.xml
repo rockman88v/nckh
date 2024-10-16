@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e784096a-f6cb-467c-8cbe-b1eae1f3bf23" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="nckh@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="nckh@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="nckh@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="nckh: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="nckh@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="nckh: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="nhomthongbao: table" type="98d5ac3d:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.3">
+    <include_path>
+      <path value="$PROJECT_DIR$/../php" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="228oXGbz0pkjbZbcS2tN73izWjn" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../php" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.login.php">
+    <configuration name="login.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/htdocs/admin/login.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="v_bao_khoa_hoc_mb.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/htdocs/view_mb/v_bao_khoa_hoc_mb.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/index.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="login.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/admin/login.php">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.login.php" />
+      <item itemvalue="JavaScript Debug.v_bao_khoa_hoc_mb.php" />
+      <item itemvalue="PHP Script.login.php" />
+      <item itemvalue="PHP Script.index.php" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.login.php" />
+        <item itemvalue="PHP Script.index.php" />
+        <item itemvalue="PHP Script.login.php" />
+        <item itemvalue="JavaScript Debug.v_bao_khoa_hoc_mb.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e784096a-f6cb-467c-8cbe-b1eae1f3bf23" name="Default" comment="" />
+      <created>1525790023938</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1525790023938</updated>
+      <workItem from="1525790027611" duration="3939000" />
+      <workItem from="1525818123627" duration="6745000" />
+      <workItem from="1525832932292" duration="263000" />
+      <workItem from="1525837838942" duration="1448000" />
+      <workItem from="1525849878889" duration="5724000" />
+      <workItem from="1525857915880" duration="66000" />
+      <workItem from="1525861869098" duration="14936000" />
+      <workItem from="1525915091189" duration="10436000" />
+      <workItem from="1525991398946" duration="15336000" />
+      <workItem from="1526049268933" duration="1469000" />
+      <workItem from="1526090635640" duration="667000" />
+      <workItem from="1526111754686" duration="598000" />
+      <workItem from="1526165276382" duration="741000" />
+      <workItem from="1526201626861" duration="1625000" />
+      <workItem from="1526230259888" duration="4033000" />
+      <workItem from="1526260007465" duration="338000" />
+      <workItem from="1526269010695" duration="907000" />
+      <workItem from="1526287393725" duration="6289000" />
+      <workItem from="1526347630822" duration="2624000" />
+      <workItem from="1526395167383" duration="6268000" />
+      <workItem from="1526426232559" duration="1427000" />
+      <workItem from="1526613315764" duration="590000" />
+      <workItem from="1526617531555" duration="1198000" />
+      <workItem from="1526626442694" duration="11832000" />
+      <workItem from="1526689410112" duration="6758000" />
+      <workItem from="1526866182682" duration="613000" />
+      <workItem from="1526869273480" duration="1219000" />
+      <workItem from="1527122620753" duration="9878000" />
+      <workItem from="1527214784982" duration="2240000" />
+      <workItem from="1527591595478" duration="3707000" />
+      <workItem from="1527661483150" duration="619000" />
+      <workItem from="1527810342077" duration="594000" />
+      <workItem from="1527928614986" duration="150000" />
+      <workItem from="1527928799554" duration="364000" />
+      <workItem from="1527948784658" duration="3469000" />
+      <workItem from="1528008580600" duration="637000" />
+      <workItem from="1528074963842" duration="599000" />
+      <workItem from="1529306026359" duration="2080000" />
+      <workItem from="1529385809219" duration="596000" />
+      <workItem from="1529545150124" duration="332000" />
+      <workItem from="1529592941118" duration="1137000" />
+      <workItem from="1529651012717" duration="2606000" />
+      <workItem from="1529724464523" duration="735000" />
+      <workItem from="1529745376519" duration="2510000" />
+      <workItem from="1529765569584" duration="1077000" />
+      <workItem from="1529982810173" duration="687000" />
+      <workItem from="1529993878134" duration="213000" />
+      <workItem from="1530923543615" duration="514000" />
+      <workItem from="1530969300274" duration="376000" />
+      <workItem from="1532581840730" duration="132000" />
+      <workItem from="1639228617653" duration="46000" />
+      <workItem from="1639228741147" duration="412000" />
+      <workItem from="1639284506056" duration="2664000" />
+      <workItem from="1639299029387" duration="1517000" />
+      <workItem from="1639301043868" duration="1862000" />
+      <workItem from="1639311576709" duration="848000" />
+      <workItem from="1639312464209" duration="431000" />
+    </task>
+    <task id="LOCAL-00001" summary="Start up">
+      <created>1525824037964</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1525824037964</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Start up">
+      <created>1525827352750</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1525827352750</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Bảng kinh phi">
+      <created>1527928820281</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1527928820281</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Bảo mật">
+      <created>1527955977369</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1527955977369</updated>
+    </task>
+    <task id="LOCAL-00005" summary="PTB">
+      <created>1529593082073</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1529593082073</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Start up" />
+    <MESSAGE value="Bảng kinh phi" />
+    <MESSAGE value="Bảo mật" />
+    <MESSAGE value="PTB" />
+    <option name="LAST_COMMIT_MESSAGE" value="PTB" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="902" y="261" key="#CLI_Interpreters" timestamp="1639311847689">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="902" y="261" key="#CLI_Interpreters/0.0.1920.1040@0.0.1920.1040" timestamp="1639311847689" />
+    <state x="667" y="163" key="#PHP" timestamp="1639297177752">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="163" key="#PHP/0.0.1920.1040@0.0.1920.1040" timestamp="1639297177752" />
+    <state x="763" y="309" key="#Web_Browsers" timestamp="1639297745756">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="763" y="309" key="#Web_Browsers/0.0.1920.1040@0.0.1920.1040" timestamp="1639297745756" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1639300864172">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1639300864172" />
+    <state x="732" y="168" key="#login.php" timestamp="1639302260362">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="732" y="168" key="#login.php/0.0.1920.1040@0.0.1920.1040" timestamp="1639302260362" />
+    <state x="739" y="275" key="FileChooserDialogImpl" timestamp="1639301770372">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1639301770372" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1639320001938">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1639320001938" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1639320001938">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1639320001938" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1639320001938">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1639320001938" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1639320001938">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1639320001938" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1639312426972">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1639312426972" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1639312426972">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1639312426972" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1639312426972">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1639312426972" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1639312426972">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1639312426972" />
+    <state width="1877" height="348" key="GridCell.Tab.2.bottom" timestamp="1639298631553">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1639298631553" />
+    <state width="1877" height="348" key="GridCell.Tab.2.center" timestamp="1639298631553">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1639298631553" />
+    <state width="1877" height="348" key="GridCell.Tab.2.left" timestamp="1639298631553">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1639298631553" />
+    <state width="1877" height="348" key="GridCell.Tab.2.right" timestamp="1639298631553">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1639298631553" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1639311848339">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1639311848339" />
+    <state x="514" y="249" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1639298755749">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="514" y="249" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1639298755749" />
+    <state x="0" y="0" key="com.jetbrains.php.config.phpInfo.PhpInfo.PhpInfoDialog" timestamp="1639311781534">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="0" key="com.jetbrains.php.config.phpInfo.PhpInfo.PhpInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1639311781534" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/htdocs$login_php.dat" NAME="login.php Coverage Results" MODIFIED="1639312421337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="WipCoverageRunner" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
